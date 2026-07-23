@@ -8,4 +8,4 @@ Open FuncGines On Github All Projects.
 - [tansumgameshub](https://tansumgameshub.onrender.com)
 - [studio.tansumgameshub](https://studio-tansumgameshub.onrender.com)
 - [Students Check](https://studenscheck-funcgines.onrender.com)
-- [Students Location](https://https://studentslocation-funcgines.onrender.com/)
+- [Students Location](https://studenscheck-funcgines.onrender.com)
